@@ -2,7 +2,6 @@ Faça um algoritmo que solicite o ano que o usuário nasceu, depois disso, faça
 
 idade = int(input("Digite sua idade: "))
 
-# Classificação etária
 if idade < 11:
     print("Você é uma Criança.")
 elif idade < 17:
